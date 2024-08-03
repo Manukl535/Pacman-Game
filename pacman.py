@@ -1,3 +1,4 @@
+# Developed by manu
 from random import choice
 from turtle import *
 
